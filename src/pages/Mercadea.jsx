@@ -94,7 +94,7 @@ export default function Mercadea() {
               Nuestra Visión 🚀
             </h2>
             <p className="text-lg text-gray-300">
-              Queremos convertirnos en el marketplace más **confiable y transparente** de Latinoamérica, liderando el comercio digital con innovación, seguridad y un modelo de intermediación que proteja siempre a nuestros usuarios. Aspiramos a que cada persona pueda comprar y vender sin miedo a estafas, sabiendo que Mercadéa está ahí para respaldar cada paso.
+              Queremos convertirnos en el marketplace más confiable y transparente de Latinoamérica, liderando el comercio digital con innovación, seguridad y un modelo de intermediación que proteja siempre a nuestros usuarios. Aspiramos a que cada persona pueda comprar y vender sin miedo a estafas, sabiendo que Mercadéa está ahí para respaldar cada paso.
             </p>
           </div>
 
@@ -104,10 +104,10 @@ export default function Mercadea() {
               Objetivos Clave ✅
             </h2>
             <ul className="text-lg text-gray-300 space-y-3 list-disc list-inside">
-              <li className="pl-2">Garantizar **seguridad total** en cada transacción mediante nuestros intermediarios certificados.</li>
+              <li className="pl-2">Garantizar seguridad total en cada transacción mediante nuestros intermediarios certificados.</li>
               <li className="pl-2">Reducir riesgos de fraude tanto para compradores como para vendedores.</li>
-              <li className="pl-2">Optimizar la experiencia de compra y venta, haciéndola más **rápida, clara e intuitiva**.</li>
-              <li className="pl-2">Fomentar la **confianza** entre usuarios mediante un sistema transparente de comprobación.</li>
+              <li className="pl-2">Optimizar la experiencia de compra y venta, haciéndola más rápida, clara e intuitiva.</li>
+              <li className="pl-2">Fomentar la confianza entre usuarios mediante un sistema transparente de comprobación.</li>
               <li className="pl-2">Impulsar el comercio local conectando de forma eficiente a usuarios y negocios.</li>
               <li className="pl-2">Innovar continuamente en herramientas, métodos de pago y verificación.</li>
             </ul>
