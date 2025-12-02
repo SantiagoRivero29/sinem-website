@@ -5,7 +5,7 @@ import { Link } from "react-router-dom";
 export default function OurWorks() {
   const works = [
     { 
-      title: "Mercadéa",
+      title: "Mercadea",
       description: "Plataforma móvil para fábricas, distribuidores y vendedores mayoristas. Permite publicar productos, administrar ventas y conectar proveedores con compradores.",
       image: "/images/mercadea_logo.jpeg",
       accent: "orange", // Color de acento para la tarjeta
